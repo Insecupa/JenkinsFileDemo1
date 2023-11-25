@@ -8,7 +8,7 @@ public class SimpleContoller {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "Hello WOrld";
+        return "Hello nothingness";
     }
 
 }
